@@ -1,7 +1,15 @@
 # 1. Informacion Del Proyecto
 - Nombre: WildVision
 - Equipo:
+   - Ariela Jiménez Rodríguez
+    - Allison Romero Jiménez 
+    - Anthony Blanco Paniagua 
+    - Oscar Vazquez Aguilera 
 - Roles:
+    - Ariela Jiménez Rodríguez- Coordinadora
+    - Allison Romero Jiménez - Desarrolladora principal
+    - Anthony Blanco Paniagua - Diseñador
+    - Oscar Vazquez Aguilera -Desarrollador
 
 Este proyecto consiste en el desarrollo de un visor inteligente capaz de identificar aves en tiempo real mediante el uso de inteligencia artificial y microcontroladores.
 
